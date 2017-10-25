@@ -13,3 +13,9 @@ This site contains candidate single-cell related papers which may be discussed l
 
 * Aibar, S., et al. (2017). "SCENIC: single-cell regulatory network inference and clustering." Nat Methods. [[link]](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4463.html?WT.feed_name=subjects_biotechnology)
 
+* Kiselev, Vladimir Yu, et al. "SC3: consensus clustering of single-cell RNA-seq data." Nature methods (2017). [[link]](https://www.nature.com/nmeth/journal/v14/n5/full/nmeth.4236.html)
+
+* Qiu, Xiaojie, et al. "Single-cell mRNA quantification and differential analysis with Census." Nature methods 14.3 (2017): 309-315. [[link]](https://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4150.html)
+
+* Bacher, Rhonda, et al. "SCnorm: robust normalization of single-cell RNA-seq data." Nature Methods 14.6 (2017): 584-586. [[link]](https://www.nature.com/nmeth/journal/v14/n6/abs/nmeth.4263.html)
+
